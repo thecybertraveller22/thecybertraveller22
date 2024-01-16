@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thecybertraveller22
-- 👀 I’m interested in travelling & coding
+- 👀 I’m interested in travelling, coding & cyber security
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on cyber security
 - 📫 How to reach me
