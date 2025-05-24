@@ -2,7 +2,7 @@
 - 👀 I’m interested in travelling, coding & cyber security
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on cyber security
-- 📫 You can reach me at www.linkedin.com/in/arham-ahmed-090a64270
+- 📫 You can reach me at www.linkedin.com/in/syed-arham-ahmed-090a64270
 
 <!---
 thecybertraveller22/thecybertraveller22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
